@@ -1,3 +1,3 @@
 # Errands
  Personal Unity Game
-![alt text](../currentGame.png)
+![alt text](currentGame.png)
